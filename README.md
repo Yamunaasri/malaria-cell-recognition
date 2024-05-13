@@ -48,11 +48,10 @@ Use random image selection for inference and display the prediction result.
 
 
 ## PROGRAM
-
-### Name: Karthikeyan K
-
-### Register Number: 212221230046
-
+```
+Name: Karthikeyan K
+Register Number: 212221230046
+```0
 
 ```python
 # to share the GPU
