@@ -49,9 +49,9 @@ Use random image selection for inference and display the prediction result.
 
 ## PROGRAM
 ```
-Name: Karthikeyan K
-Register Number: 212221230046
-```0
+Name: Yamunaasri 
+Register Number: 212222240117
+```
 
 ```python
 # to share the GPU
